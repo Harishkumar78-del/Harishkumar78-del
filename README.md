@@ -1,5 +1,4 @@
-## 👨‍💻 About Me – Quick Highlights
-
+## 👨‍💻 About Me 
 🎓 Bachelor's in Information Technology, SNS College of Technology — CGPA: 8.20  
 💡 Passionate about solving problems and thriving in high-pressure environments  
 🧠 Strong in Project Management, Structural Analysis & Computer Networks  
@@ -9,7 +8,6 @@
 🛠️ Fast learner, strategic thinker, and resilient team player  
 
 ## 🚀 Projects
-
 🚗 Facial expression sensor to help prevent road accidents  
 🤖 Humanoid chatbot that reacts to human emotions  
 🔒 Cybersecurity app to detect phishing attacks  
