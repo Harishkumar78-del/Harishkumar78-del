@@ -1,11 +1,20 @@
-# 💫 About Me:
-I'm Harish Kumar M, a highly motivated and adaptable IT professional with a deep passion for problem-solving and a relentless work ethic. My academic journey includes a Bachelor's in Information Technology from SNS College of Technology 🎓, where I achieved a CGPA of 8.20. </br>
-I thrive in high-pressure environments, known for quickly analyzing situations and devising innovative solutions ✨.  My technical skills are robust, spanning Project Management, Structural Analysis, and Computer Networks 💻.</br>
+## 👨‍💻 About Me – Quick Highlights
 
-I'm proficient in various languages including Java, Python, C, and skilled in Data Structures & Algorithms (DSA) in Java. My practical experience includes a valuable Full Stack Development internship at ETHER INFO TECH 🚀, where I successfully created a website using HTML, CSS, and JavaScript.  I've also expanded my knowledge of Python programming and its real-world applications through workshops. </br>
+🎓 Bachelor's in Information Technology, SNS College of Technology — CGPA: 8.20  
+💡 Passionate about solving problems and thriving in high-pressure environments  
+🧠 Strong in Project Management, Structural Analysis & Computer Networks  
+💻 Proficient in **Java**, **Python**, **C**, and **DSA (Java)**  
+🌐 Full Stack Development intern at ETHER INFO TECH — built websites using **HTML**, **CSS**, and **JavaScript**  
+🐍 Hands-on experience with real-world **Python** applications  
+🛠️ Fast learner, strategic thinker, and resilient team player  
 
-As a resilient and critical thinker 🤔, I am committed to driving success through determination and strategic thinking. My portfolio showcases diverse mini-projects, including a facial expression detecting sensor to prevent road accidents 🚗, a humanoid chatbot that reacts to human feelings 🤖, an application for Cyber Security to prevent Phishing attacks 🔒, and an application to predict customer churn 📉.  I'm always ready to embrace challenges and deliver results, leveraging my strong leadership, creativity, conflict resolution, and decision-making skills. 💪
+## 🚀 Projects
 
+🚗 Facial expression sensor to help prevent road accidents  
+🤖 Humanoid chatbot that reacts to human emotions  
+🔒 Cybersecurity app to detect phishing attacks  
+📉 Customer churn prediction tool
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harishk.insta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-kumar-m--/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.harsikumar20@gmail.com) 
 
@@ -15,10 +24,3 @@ As a resilient and critical thinker 🤔, I am committed to driving success thro
 ![](https://github-readme-stats.vercel.app/api?username=Harishkumar78-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harishkumar78-del&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishkumar78-del&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harishkumar78-del&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Harishkumar78-del&icon=0&color=0)](https://visitcount.itsvg.in)
-
